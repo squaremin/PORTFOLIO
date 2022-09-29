@@ -131,13 +131,10 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
 }
 #home .container .right-box img{
   width: 470px;
-  height: 610px;
+  height: 788px;
   margin-right: 100px;
 }
 /* ************** ABOUT AREA START ************** */
-#about{
-  height: 100%;
-}
 #about .container .left-box{
   width: 500px;
   margin-right: 170px;
@@ -189,7 +186,6 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
 /* ************** STRENGTH AREA START ************** */
 #strength{
   background-color: #f2f2f2;
-  height: 100%;
 }
 #strength .container ul li .card{
   width: 270px;
@@ -391,7 +387,6 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
 /* ************** WHATIDO AREA START ************** */
 #whatido{
   background-color: #f2f2f2;
-  height: 100%;
 }
 #whatido .container ul li .card{
   width: 270px;
@@ -504,6 +499,12 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
 #contact .container .right-box .btn:hover{
   box-shadow: 0px 15px 20px rgb(0 0 0 / 50%);
   transition-duration: 0.5s;
+}
+#contact .thankyou_message p{
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 21px;
 }
 /* ************** FOOTER AREA START ************** */
 #footer{

@@ -183,4 +183,12 @@ $(function(){
         
       });
     });
+      // 모바일 메뉴 설정
+    var gnb = $('#gnb');
+
+    gnb.mouseleave(function(){
+      $(this).animate({'height': 0}, 800, function(){
+        $(this).removeClass('in');
+      });
+    });
 });

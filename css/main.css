@@ -111,6 +111,9 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
   line-height: 21px;
   margin-bottom: 63px;
 }
+#home .container .left-box p span{
+  font: 600 1.5rem/21px 'Arial', sans-serif;
+}
 #home .container .left-box .btn{
   width: 170px;
   height: 42px;

@@ -269,7 +269,7 @@ h1, h2, h3, h4, h5{margin: 0; padding: 0;}
 }
 #portfolio .container .grid ul li{
   display: inline-block;
-  width: 31.3%;
+  width: 30%;
   height: 250px;
   border: 1px solid #ccc;
   margin: 0 1% 42px;
